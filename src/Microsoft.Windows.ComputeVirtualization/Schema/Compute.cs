@@ -24,6 +24,7 @@ namespace Microsoft.Windows.ComputeVirtualization.Schema
         L2Bridge = 2,
         L2Tunnel = 3,
         Private = 4,
+        ICS
     }
 
 
